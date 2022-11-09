@@ -21,6 +21,6 @@ We can see from our line chart below that the peak amount of fares occur in end 
 
 
 
-##Summary
-######Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+## Summary
+###### Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 To address the disparity in the rural areas we could recommend an increase in price per miles paid to the driver, thus increasing thee average fare per driver and providing more incentives for more drivers to give rides in rural areas thus increasing overall rides. Another suggestion would be to reduce the overall cost of rural rides by subsidizing them, therefore bringing in more riders not on Pyber, and decreasing the fares paid to drivers in Urban areas. This would serve to lessen the gap between the two cities types. One last suggestion would be to lower the barrier to entry in the rural areas by being more lax in the kinds of cars Pyber allows to drive for them. Thinking that the cars in the rural areas would be older or of lesser quality greatly affects the barrier of entry in ride sharing. 
